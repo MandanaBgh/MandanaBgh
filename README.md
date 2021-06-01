@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MandanaBgh
 - 👀 I’m interested in dealing with chalenges
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on JAVA Projects
 - 📫 How to reach me Mandana.bgh@gmail.com
 
 <!---
